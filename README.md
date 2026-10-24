@@ -13,6 +13,10 @@ python main.py
 
 In VS Code, select `.venv/bin/python` as the Python interpreter.
 
+## Download the macOS build
+
+Download the Apple silicon build from the [latest GitHub release](https://github.com/Cyber-Krithik/Terra-Project-1/releases/latest), unzip it, and open `The Last Lantern.app`. This build is for Apple silicon Macs only. Because it is not notarized, macOS may ask you to confirm before opening it; Control-click the app, choose **Open**, and confirm.
+
 ## Controls
 
 - **WASD** or **arrow keys**: move.
